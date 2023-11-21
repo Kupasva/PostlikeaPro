@@ -1,0 +1,22 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "Welcome to my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "webservice",
+    "preview"
+  ],
+  "author": "rollykite",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
